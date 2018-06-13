@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.foobar;
+package com.foobar; 
 
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
