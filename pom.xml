@@ -76,4 +76,4 @@
         <url>https://atomist.jfrog.io/atomist/libs-snapshot-demo</url>
       </snapshotRepository>
     </distributionManagement>
-</project>
+</project> 
